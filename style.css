@@ -12,16 +12,9 @@ h1{
     }   
 
 div{    
-            text-decoration: 2px 2px 3px #00CED1
-            forestgreen
+            text-decoration: 2px 2px 3px hsl(181, 67%, 66%)
+            rgb(28, 124, 28)
             font-size 20px;
 }
 
 
-img{ 
-    image-resolution: 25px
-    ;
-}
-Reviews{
-        text-shadow: #228B22;
-}
