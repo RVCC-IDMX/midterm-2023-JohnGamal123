@@ -18,3 +18,10 @@ div{
 }
 
 
+img{ 
+    image-resolution: 25px
+    ;
+}
+Reviews{
+        text-shadow: #228B22;
+}
