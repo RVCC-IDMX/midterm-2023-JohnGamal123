@@ -9,8 +9,12 @@ h1{
     h2{ 
         text-shadow: 2px 2px 3px #228B22
 
+    }   
 
-
-    }
+div{    
+            text-decoration: 2px 2px 3px #00CED1
+            forestgreen
+            font-size 20px;
+}
 
 
